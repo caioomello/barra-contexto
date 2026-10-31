@@ -1,0 +1,5 @@
+{
+  "name": "meus-mods",
+  "owner": { "name": "Caio" },
+  "plugins": [{ "name": "barra-contexto", "source": "./" }]
+}
