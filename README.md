@@ -4,10 +4,10 @@ Mod para o Claude Code: uma faixa fina acima da caixa de texto com o contexto us
 
 ## Instalação
 
-No app desktop: **+** → **Plugins** → **Gerenciar plugins** → **Adicionar marketplace** → **Adicionar repositório**, com `<usuario>/barra-contexto`. Depois instale `barra-contexto` no escopo de usuário.
+No app desktop: **+** → **Plugins** → **Gerenciar plugins** → **Adicionar marketplace** → **Adicionar repositório**, com `caioomello/barra-contexto`. Depois instale `barra-contexto` no escopo de usuário.
 
 Num terminal:
 
 ```
-/plugin install barra-contexto --marketplace <usuario>/barra-contexto
+/plugin install barra-contexto --marketplace caioomello/barra-contexto
 ```
